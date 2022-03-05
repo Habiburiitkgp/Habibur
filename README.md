@@ -77,7 +77,7 @@ Department of Computer Science and Engineering
   
 
   
-  ### POSITIONS OF RESPONSIBILITY
+### POSITIONS OF RESPONSIBILITY
 
 **Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
 <br>
@@ -91,7 +91,7 @@ Department of Computer Science and Engineering
 
 <hr>
   
- ### Internships 
+### Internships 
   
  
 **Indian Institute of Technology Kharagpur**<span style="float: right; ">May 2018 - Jul 2018</span>  
