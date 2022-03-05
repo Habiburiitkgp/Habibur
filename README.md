@@ -79,7 +79,7 @@ Department of Computer Science and Engineering
   
 ### POSITIONS OF RESPONSIBILITY
 
-**Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
+**Teaching Assistant**-<span style=" ">IIT Kharagpur</span>
 <br>
 [NPTEL] Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay | https://onlinecourses.nptel.ac.in/noc22_cs14/preview<br>
 [NPTEL] Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay (May 2021 - Nov 2021) | https://nptel.ac.in/courses/106105214<br>
