@@ -62,7 +62,7 @@ Department of Computer Science and Engineering
 
   
   
-<span style="color:blue">**PUBLICATIONS**<\span>  
+<span style="color:blue">**PUBLICATIONS**</span>  
   
 ### PUBLICATIONS
   
@@ -151,6 +151,14 @@ Internship Project Title: Development of a Distributed Security Application usin
 
 **“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”**  
 <br>Sponsored by Synopsys Inc.(690 East Middlefield Road, Mountain View, CA 94043, USA)<br>  
+  
+  
+  
+  
+### CERTIFICATES:
+  
+**Build Basic Generative Adversarial Networks (GANs) an online non-credit course authorized by DeepLearning.AI and offered through Coursera) *[Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/6b9236d851f468990866036079fd967c)*
+<hr>  
 
 
  
