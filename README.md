@@ -22,7 +22,8 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 **Indian Institute of Technology Kharagpur** <span style="float: right; ">2019 - Present</span>  
 
-Masters in Computer Science and Engineering <span style="float: right; ">Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits</span>
+Masters in Computer Science and Engineering <span style="float: right; ">
+Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits</span>
 
 Department of Computer Science and Engineering
 
