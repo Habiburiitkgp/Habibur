@@ -55,7 +55,7 @@ Department of Computer Science and Engineering
 
   
   
-###<span style="color:blue">**PUBLICATIONS**  
+<span style="color:blue">**PUBLICATIONS**<\span>  
   
 ### PUBLICATIONS
   
