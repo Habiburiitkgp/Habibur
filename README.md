@@ -44,16 +44,16 @@ Department of Computer Science and Engineering
   
   
 
-**Journal of Circuits, Systems and Computers - 2022** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Conformance Testing for Finite State Machines Guided by Deep Neural Network](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501560)*
+**2022 Journal of Circuits, Systems and Computers** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Conformance Testing for Finite State Machines Guided by Deep Neural Network](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501560)*
 <hr>
 
-**Artificial Intelligence Driven Circuits and Systems - 2021** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Transfer Fault Detection in Finite State Machines Using Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-981-16-6940-8_12)*
+**2021 Artificial Intelligence Driven Circuits and Systems** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Transfer Fault Detection in Finite State Machines Using Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-981-16-6940-8_12)*
 <hr>  
 
 **2021 International Symposium on Devices, Circuits and Systems (ISDCS)** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Indian Institute of Technology Kharagpur, India) *[A Deep Neural Network Guided Testing Approach for Finite State Machines](https://ieeexplore.ieee.org/abstract/document/9397900)*
 <hr>    
 
-**Microelectronics Journal 2021 ** - LaxmidharBiswal (Department of ECE, Mizoram University, Aizawl, India); Habibur Rahaman (Indian Institute of Technology Kharagpur, India); Niladri PratapMaity (Department of ECE, Mizoram University, Aizawl, India) *[Clifford+T-based implementation of fault-tolerant quantum circuits over XOR-Majority Graph](https://www.sciencedirect.com/science/article/abs/pii/S0026269221002093)*
+**2021 Microelectronics Journal ** - LaxmidharBiswal (Department of ECE, Mizoram University, Aizawl, India); Habibur Rahaman (Indian Institute of Technology Kharagpur, India); Niladri PratapMaity (Department of ECE, Mizoram University, Aizawl, India) *[Clifford+T-based implementation of fault-tolerant quantum circuits over XOR-Majority Graph](https://www.sciencedirect.com/science/article/abs/pii/S0026269221002093)*
 <hr>     
 
   
