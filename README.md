@@ -7,9 +7,6 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 ![alt text](/images/habibur.jpg)
 
-![](https://github.com/Habiburiitkgp/Habibur/blob/main/images/habibur_photo.jpg)
-
-
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/habibur-rahaman-00a37117a/)
@@ -22,7 +19,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 **Indian Institute of Technology Kharagpur** <span style="float: right; ">2019 - Present</span>  
 
-Masters in Computer Science and Engineering <span style="float: right; ">
+Masters in Computer Science and Engineering <span style="float: right; "></span>
 Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits</span>
 
 Department of Computer Science and Engineering
