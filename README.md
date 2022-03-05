@@ -157,8 +157,8 @@ Internship Project Title: Development of a Distributed Security Application usin
   
 ### CERTIFICATES:
   
-**Build Basic Generative Adversarial Networks (GANs) an online non-credit course authorized by DeepLearning.AI and offered through Coursera) *[Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/6b9236d851f468990866036079fd967c)*
-<hr>  
+
+**Build Basic Generative Adversarial Networks (GANs)** an online non-credit course authorized by DeepLearning.AI and offered through Coursera)*[Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/6b9236d851f468990866036079fd967c)*
+<hr>    
 
 
- 
