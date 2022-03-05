@@ -77,4 +77,25 @@ Department of Computer Science and Engineering
   
 
   
+  ### POSITIONS OF RESPONSIBILITY
+
+**Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
+<br>
+[NPTEL] Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay | https://onlinecourses.nptel.ac.in/noc22_cs14/preview<br>
+[NPTEL] Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay (May 2021 - Nov 2021) | https://nptel.ac.in/courses/106105214<br>
+[IIT Kgp] Teaching Assistant in CS60013: SMST Programming And Data Structure Theory (Aug 2021- Dec 2021)<br>  
+[IIT Kgp] Teaching Assistant in CS19001: Programming And Data Structure Lab (March 2021- Jul 2021)<br>   
+[NPTEL] Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay (Jan 2021 -  May 2021)) | https://onlinecourses.nptel.ac.in/noc21_cs07/preview<br>
+[NPTEL] Teaching Assistant for the course of Digital Circuits under Prof. Santanu Chattopadhyay (July 2020 -  Dec 2020)) ||https://onlinecourses.nptel.ac.in/noc20_ee70/preview<br>
+
+
+<hr>
+  
+ ### Internships 
+  
+  <br>
+**Indian Institute of Technology Kharagpur** <span style="float: right; ">May 2018 - Jul 2018</span>  
+  
+Internship Project Title: Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur
+  
  
