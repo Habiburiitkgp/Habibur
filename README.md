@@ -50,7 +50,7 @@ Department of Computer Science and Engineering
   
   
 
-**2022 Journal of Circuits, Systems and Computers** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Conformance Testing for Finite State Machines Guided by Deep Neural Network]*(https://www.worldscientific.com/doi/abs/10.1142/S0218126622501560)
+**2022 Journal of Circuits, Systems and Computers** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Conformance Testing for Finite State Machines Guided by Deep Neural Network](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501560)*
 <hr>
 
 **2021 Artificial Intelligence Driven Circuits and Systems** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Transfer Fault Detection in Finite State Machines Using Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-981-16-6940-8_12)*
@@ -82,12 +82,12 @@ Department of Computer Science and Engineering
 
 **Teaching Assistant**-<span style="float: centre; ">IIT Kharagpur</span>
 <br>
-[NPTEL] Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay | https://onlinecourses.nptel.ac.in/noc22_cs14/preview<br>
-[NPTEL] Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay (May 2021 - Nov 2021) | https://nptel.ac.in/courses/106105214<br>
+[NPTEL] Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay |(https://onlinecourses.nptel.ac.in/noc22_cs14/preview)<br>
+[NPTEL] Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay (May 2021 - Nov 2021) |(https://nptel.ac.in/courses/106105214)<br>
 [IIT Kgp] Teaching Assistant in CS60013: SMST Programming And Data Structure Theory (Aug 2021- Dec 2021)<br>  
 [IIT Kgp] Teaching Assistant in CS19001: Programming And Data Structure Lab (March 2021- Jul 2021)<br>   
-[NPTEL] Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay (Jan 2021 -  May 2021)) | https://onlinecourses.nptel.ac.in/noc21_cs07/preview<br>
-[NPTEL] Teaching Assistant for the course of Digital Circuits under Prof. Santanu Chattopadhyay (July 2020 -  Dec 2020)) ||https://onlinecourses.nptel.ac.in/noc20_ee70/preview<br>
+[NPTEL] Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay (Jan 2021 -  May 2021)) |(https://onlinecourses.nptel.ac.in/noc21_cs07/preview)<br>
+[NPTEL] Teaching Assistant for the course of Digital Circuits under Prof. Santanu Chattopadhyay (July 2020 -  Dec 2020)) |(https://onlinecourses.nptel.ac.in/noc20_ee70/preview)<br>
 
 
 <hr>
