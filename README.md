@@ -101,7 +101,8 @@ Department of Computer Science and Engineering
 <br>-- Machine LearningMachine Learning :                      CS60045(IIT KGP)
 
 </p>    
-    
+
+<hr>  
   
   
   
@@ -138,5 +139,11 @@ Department of Computer Science and Engineering
 *Department of Computer Science and Engineering*  
   
 Internship Project Title: Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur
+  
+  
+### Projects:
+
+**“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”  
+<br>Sponsored by Synopsys Inc.(690 East Middlefield Road, Mountain View, CA 94043, USA)<br>  
   
  
