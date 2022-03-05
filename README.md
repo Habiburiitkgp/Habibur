@@ -142,7 +142,7 @@ Internship Project Title: Development of a Distributed Security Application usin
   
 ### Projects:
 
-**“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”  
+**“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”**  
 <br>Sponsored by Synopsys Inc.(690 East Middlefield Road, Mountain View, CA 94043, USA)<br>  
   
  
