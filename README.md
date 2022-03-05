@@ -1,5 +1,5 @@
 
-<span style="color:blue">###**ABOUT ME** </span>  
+<span style="color:blue">****ABOUT ME**** </span>  
 
 Currently, I am doing my Masters in the Department of Computer Science and Engineering from the Indian Institute of Technology, Kharagpur. My research interest focuses on VLSI test research-related topics such as FSM based Testing and Scan and Non-Scan based Testing using machine learning.
 
