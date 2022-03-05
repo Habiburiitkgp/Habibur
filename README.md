@@ -1,6 +1,6 @@
-
-<span style="color:blue">****ABOUT ME**** </span>  
-
+<p align="center">
+<span style="color:blue">#ABOUT ME</span>  
+</p>
 
 <p align="center">
 
