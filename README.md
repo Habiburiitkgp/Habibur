@@ -4,6 +4,9 @@
 </p>  
 
 
+<p>ABOUT ME, <strong>and this is some important text.</strong></p>
+
+
 <p align="center">
   
 
