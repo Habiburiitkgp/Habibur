@@ -11,9 +11,13 @@
 <body>
 
 <h1 class="center">ABOUT ME</h1>
+  
+  
+</body>
+</html>
+  
 
 
-<h1 class="center">ABOUT ME</h1>
 
 
 <p align="center">
@@ -158,9 +162,6 @@ Internship Project Title: Development of a Distributed Security Application usin
 
 **“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”**  
 <br>Sponsored by Synopsys Inc.(690 East Middlefield Road, Mountain View, CA 94043, USA)<br>  
-  
-</body>
-</html>
 
 
  
