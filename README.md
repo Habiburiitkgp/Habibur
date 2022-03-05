@@ -85,13 +85,14 @@ Department of Computer Science and Engineering
   
 **Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
 <br>
+  
 [NPTEL] Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay | https://onlinecourses.nptel.ac.in/noc22_cs14/preview<br>
   
   
   
 
   
-[NPTEL] Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay (May 2021 - Nov 2021) |(https://nptel.ac.in/courses/106105214)
+<br>[NPTEL] Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay (May 2021 - Nov 2021) |(https://nptel.ac.in/courses/106105214)<br1>
   
 [IIT Kgp] Teaching Assistant in CS60013: SMST Programming And Data Structure Theory (Aug 2021- Dec 2021)
   
