@@ -1,29 +1,3 @@
-figure {
-	display: inline-block;
-	margin: 5px;
-	text-align: center;
-	width: 220px;
-	padding: 5px;
-	background: #333;
-	background-image: linear-gradient(transparent,rgba(0,0,0,.2));
-	border: 1px solid #000;
-	box-shadow: inset 0 1px 0 rgba(255,255,255,.1), inset 0 0 0 1px rgba(100,100,100,.1), 0 2px 3px 1px rgba(0,0,0,.1);
-	position: relative;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Currently, I am doing my Masters in the Department of Computer Science and Engineering from the Indian Institute of Technology, Kharagpur. My research interest focuses on VLSI test research-related topics such as FSM based Testing and Scan and Non-Scan based Testing using machine learning.
