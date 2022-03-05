@@ -1,5 +1,7 @@
 
-<span style="color:blue"> ABOUT ME</span>  
+<p align="center">
+  ##ABOUT ME
+<\p>  
 
 
 <p align="center">
