@@ -4,7 +4,10 @@
 </p>  
 
 
-<p>ABOUT ME, <strong>and this is some important text.</strong></p>
+
+
+
+<p>ABOUT ME <span class="bolded">word</span>.</p>
 
 
 <p align="center">
