@@ -16,7 +16,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/habibur-rahaman-00a37117a/)
 
 
-[![Google Sites](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://scholar.google.com/citations?user=jU1-z9UAAAAJ&hl=en)
+[![Google Sites](https://i.stack.imgur.com/gVE0j.png)](https://scholar.google.com/citations?user=jU1-z9UAAAAJ&hl=en)
 
 
 
