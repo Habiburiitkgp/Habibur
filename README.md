@@ -1,4 +1,3 @@
-# Habibur
 <span style="color:red">**Habibur Rahaman Biosketch** </span>
 
 
@@ -10,5 +9,12 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 ![](https://github.com/Habiburiitkgp/Habibur/blob/main/images/habibur_photo.jpg)
 
-[linkedln Profile](https://www.linkedin.com/in/habibur-rahaman-00a37117a/)
+
+
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/habibur-rahaman-00a37117a/)
+
+
+
+
 
