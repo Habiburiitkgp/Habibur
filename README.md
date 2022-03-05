@@ -17,7 +17,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 
 [![Google Sites](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-sites-logo.png) Google Sites](https://scholar.google.com/citations?user=jU1-z9UAAAAJ&hl=en)
-
+.
 </p>
 
 
