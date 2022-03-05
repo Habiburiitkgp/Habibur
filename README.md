@@ -1,9 +1,8 @@
-.center {
-  text-align: center;
-  color: red;
-}
 
-<h1 class="center">ABOUT ME</h1>
+
+<p align="center">
+  ABOUT ME
+</p>  
   
 
 
