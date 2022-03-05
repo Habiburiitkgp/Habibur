@@ -98,7 +98,7 @@ Department of Computer Science and Engineering
   
 
   
-<br>[NPTEL] Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay (May 2021 - Nov 2021) |(https://nptel.ac.in/courses/106105214)<br1>
+<br>[NPTEL] Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay (May 2021 - Nov 2021) |*[link](https://nptel.ac.in/courses/106105214)<br1>
   
 [IIT Kgp] Teaching Assistant in CS60013: SMST Programming And Data Structure Theory (Aug 2021- Dec 2021)
   
