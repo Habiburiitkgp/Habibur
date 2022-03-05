@@ -93,8 +93,10 @@ Department of Computer Science and Engineering
   
  ### Internships 
   
-  <br>
-**Indian Institute of Technology Kharagpur** <span style="float: right; ">May 2018 - Jul 2018</span>  
+ 
+**Indian Institute of Technology Kharagpur**<span style="float: right; ">May 2018 - Jul 2018</span>  
+
+*Department of Computer Science and Engineering*  
   
 Internship Project Title: Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur
   
