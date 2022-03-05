@@ -1,7 +1,3 @@
-<span style="color:red">**Habibur Rahaman Biosketch** </span>
-
-
-
 
 Currently, I am doing my Masters in the Department of Computer Science and Engineering from the Indian Institute of Technology, Kharagpur. My research interest focuses on VLSI test research-related topics such as FSM based Testing and Scan and Non-Scan based Testing using machine learning.
 
@@ -33,15 +29,3 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 Department of Computer Science and Engineering
 
 <hr>
- 
-**Higher Secondary School** <span style="float: right; ">2012-2014</span>  
-
-Nava Nalanda Santiniketan <span style="float: right; ">88.8%</span>
-
-<hr>
-
-**Secondary School** <span style="float: right; ">2012</span>  
-
-Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
-
-<br>
