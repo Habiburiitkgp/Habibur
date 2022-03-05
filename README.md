@@ -25,14 +25,6 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 
 
-
-
-
-
-
-
-
-
 ### EDUCATION
 
 **Indian Institute of Technology Kharagpur** <span style="float: right; ">2019 - Present</span>  
@@ -97,6 +89,22 @@ Department of Computer Science and Engineering
 <hr>    
   
 
+  
+### Courses Taken:
+  
+**Indian Institute of Technology Kharagpur**<span style="float: right; "></span>  
+
+*Department of Computer Science and Engineering*   
+ 
+<br> Artificial IntelligenceArtificial Intelligence        CS60045(IIT KGP)<br>
+  
+  
+  
+  
+  
+  
+  
+  
   
 ### POSITIONS OF RESPONSIBILITY
   
