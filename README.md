@@ -57,7 +57,7 @@ Department of Computer Science and Engineering
 **2021 International Symposium on Devices, Circuits and Systems (ISDCS)** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Indian Institute of Technology Kharagpur, India) *[A Deep Neural Network Guided Testing Approach for Finite State Machines](https://ieeexplore.ieee.org/abstract/document/9397900)*
 <hr>    
 
-**2021 Microelectronics Journal ** - LaxmidharBiswal (Department of ECE, Mizoram University, Aizawl, India); Habibur Rahaman (Indian Institute of Technology Kharagpur, India); Niladri PratapMaity (Department of ECE, Mizoram University, Aizawl, India) *[Clifford+T-based implementation of fault-tolerant quantum circuits over XOR-Majority Graph](https://www.sciencedirect.com/science/article/abs/pii/S0026269221002093)*
+**2021 Microelectronics Journal** - LaxmidharBiswal (Department of ECE, Mizoram University, Aizawl, India); Habibur Rahaman (Indian Institute of Technology Kharagpur, India); Niladri PratapMaity (Department of ECE, Mizoram University, Aizawl, India) *[Clifford+T-based implementation of fault-tolerant quantum circuits over XOR-Majority Graph](https://www.sciencedirect.com/science/article/abs/pii/S0026269221002093)*
 <hr>     
 
   
