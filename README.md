@@ -44,11 +44,11 @@ Topic: Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circui
 
 <hr>
 
-**RCC Institute of Technology** <span style="float: right; ">2015 - 2019</span>  
+**[RCC Institute of Technology](https://www.rcciit.org/)** <span style="float: right; ">2015 - 2019</span>  
 
 Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 
-Department of Computer Science and Engineering
+**[Department of Computer Science and Engineering](https://www.rcciit.org/academic/cse.aspx)**
 
 <hr>
   
