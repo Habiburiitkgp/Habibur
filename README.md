@@ -11,7 +11,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
   
 ![alt text](/images/habibur.jpg)
 
-<p align="center">
+
 
   
 ### Social Handles:   
@@ -21,7 +21,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 [![Google Sites](https://github.com/Habiburiitkgp/Habibur/blob/main/images/Google-sites-logo%20(2).jpg)](https://scholar.google.com/citations?user=jU1-z9UAAAAJ&hl=en)
 
 
-</p>
+
 
 
 
