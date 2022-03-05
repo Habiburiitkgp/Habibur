@@ -1,7 +1,7 @@
 
 <p align="center">
   ##ABOUT ME
-<\p>  
+</p>  
 
 
 <p align="center">
