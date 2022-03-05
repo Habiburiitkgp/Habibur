@@ -1,21 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 .center {
   text-align: center;
   color: red;
 }
-</style>
-</head>
-<body>
 
 <h1 class="center">ABOUT ME</h1>
   
-  
-</body>
-</html>
-  
+
 
 
 
