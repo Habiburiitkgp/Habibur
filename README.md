@@ -31,4 +31,19 @@ Department of Computer Science and Engineering
 
 <hr>
   
+
+  
+  
+  
+  
+<br>
+
+
+### PUBLICATIONS
+
+**Journal of Circuits, Systems and Computers - 2022** - Habibur Rahaman (Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Sourav Kanti Addya (National Institute of Technology Karnataka, India) *[Conformance Testing for Finite State Machines Guided by Deep Neural Network](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501560)*
+<hr>
+
+
+  
   
