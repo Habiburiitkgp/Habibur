@@ -50,7 +50,7 @@ Department of Computer Science and Engineering
   
   
 
-**2022 Journal of Circuits, Systems and Computers** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Conformance Testing for Finite State Machines Guided by Deep Neural Network](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501560)*
+**2022 Journal of Circuits, Systems and Computers** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Conformance Testing for Finite State Machines Guided by Deep Neural Network]*(https://www.worldscientific.com/doi/abs/10.1142/S0218126622501560)
 <hr>
 
 **2021 Artificial Intelligence Driven Circuits and Systems** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Transfer Fault Detection in Finite State Machines Using Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-981-16-6940-8_12)*
