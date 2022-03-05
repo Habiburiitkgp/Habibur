@@ -1,6 +1,6 @@
 
 
-<p>ABOUT ME <span class="bolded">word</span>.</p>
+<h1 class="center">ABOUT ME</h1>
 
 
 <p align="center">
