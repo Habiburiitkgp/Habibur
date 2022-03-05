@@ -12,7 +12,7 @@
 <p align="center">
   
 
-Currently, I am doing my Masters in the Department of Computer Science and Engineering from the Indian Institute of Technology, Kharagpur. My research interest focuses on VLSI test research-related topics such as FSM based Testing and Scan and Non-Scan based Testing using machine learning.
+Currently, I am doing my Masters in the *[Department of Computer Science and Engineering](http://cse.iitkgp.ac.in/)* from the *[Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/)*. My research interest focuses on VLSI test research-related topics such as FSM based Testing and Scan and Non-Scan based Testing using Machine Larning.
 
 </p>  
   
