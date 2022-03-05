@@ -40,7 +40,7 @@ Masters in Computer Science and Engineering Under *[Prof Indranil Sengupta](http
   
 Topic: Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits
 
-Department of Computer Science and Engineering
+**[Department of Computer Science and Engineering](http://cse.iitkgp.ac.in/)**
 
 <hr>
 
