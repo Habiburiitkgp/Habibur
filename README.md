@@ -88,7 +88,7 @@ Department of Computer Science and Engineering
 **2016 International Conference on Microelectronics, Circuits and Systems(ICMS)** - Habibur Rahaman (Department of Computer Science and Engineering, RCC Institute of Technology, Kolkata, India); Malay Kule (Indian Institute of Engineering Science and Technology, Department of Computer Science and Technology, Shibpur,India) *[Defect Tolerant Approach For Function Mapping in Nano Crossbar Using Evolutionary Algorithms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jU1-z9UAAAAJ&citation_for_view=jU1-z9UAAAAJ:d1gkVwhDpl0C)*
 <hr>    
   
-
+<p align="center">
   
 ### Courses Taken:
   
@@ -100,7 +100,7 @@ Department of Computer Science and Engineering
 <br>-- Digital VLSI CircuitsDigital VLSI Circuits :            EC6024(IIT KGP)  
 <br>-- Machine LearningMachine Learning :                      CS60045(IIT KGP)
 
-  
+</p>    
     
   
   
