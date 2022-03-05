@@ -106,7 +106,7 @@ Department of Computer Science and Engineering
 **Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
 <br>
   
-[NPTEL] Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay | https://onlinecourses.nptel.ac.in/noc22_cs14/preview<br>
+*[NPTEL: Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay]https://onlinecourses.nptel.ac.in/noc22_cs14/preview<br>
   
   
   
