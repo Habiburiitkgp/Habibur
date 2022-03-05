@@ -92,15 +92,16 @@ Department of Computer Science and Engineering
   
 ### Courses Taken:
   
-**Indian Institute of Technology Kharagpur**<span style="float: right; "></span>  
-
-*Department of Computer Science and Engineering*   
+**Indian Institute of Technology Kharagpur**<span style="float: right; "></span>     
  
-<br> Artificial IntelligenceArtificial Intelligence        CS60045(IIT KGP)<br>
+<br>-- Artificial IntelligenceArtificial Intelligence :       CS60045(IIT KGP)<br>
+<br>-- Deep LearningDeep Learning :                           CS60010(IIT KGP)<br>
+<br>-- Design and Analysis of AlgorithmsDesign and Analysis of Algorithms EC60074 : (IIT KGP)<br>
+<br>-- Digital VLSI CircuitsDigital VLSI Circuits :            EC6024(IIT KGP)  
+<br>-- Machine LearningMachine Learning :                      CS60045(IIT KGP)
+
   
-  
-  
-  
+    
   
   
   
