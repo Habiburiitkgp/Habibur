@@ -1,7 +1,7 @@
 
 - 👋 **Hi, I’m Habibur Rahaman**
 <p align="center">
-  ABOUT ME
+  👋 **Hi, I’m Habibur Rahaman**
 </p>
   
 <hr>
