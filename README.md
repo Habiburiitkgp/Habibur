@@ -153,6 +153,8 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 **Project Title:** Defect tolerant Approaches for function mapping<br>  
   
   
+<hr>  
+  
 ### Projects:
 
 **“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”**  
