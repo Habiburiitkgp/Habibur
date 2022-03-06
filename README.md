@@ -21,7 +21,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 
   
-### Social Handles:   
+### 📫 Social Handles Below ...   
   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/habibur-rahaman-00a37117a/) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habiburiitkgp)                
@@ -171,6 +171,10 @@ Internship Project Title: Development of a Distributed Security Application usin
 **Tool Exposure:-** Synopsys VCS (Verilog Compiler and Simulator) Tool, SimRegress tool, and Synopsys Tetramax.<br>  
   
 <hr>  
+  
+  
+### INTERPERSONAL SKILLS: 
+  
   
   
 ### CERTIFICATES:
