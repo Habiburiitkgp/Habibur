@@ -175,6 +175,10 @@ Internship Project Title: Development of a Distributed Security Application usin
   
 ### INTERPERSONAL SKILLS: 
   
+- Ability to rapidly build relationship and set up trust.
+- Confident and Determined.
+- Ability to cope up with different situations.
+  
   
   
 ### CERTIFICATES:
