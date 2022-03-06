@@ -1,9 +1,6 @@
 
 - 👋 **Hi, I’m Habibur Rahaman**
-<p align="center">
-  👋 **Hi, I’m Habibur Rahaman**
-</p>
-  
+
 <hr>
 
 ### Research Interest
