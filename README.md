@@ -144,7 +144,13 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 
 *Department of Computer Science and Engineering*  
   
-Internship Project Title: Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur
+**Internship Project Title:** Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur
+  
+**Summer Internship at Indian Institute of Engineering Science and Technology (Shibpur)**<span style="float: right; ">Jun 2017 - Jul 2017</span> 
+  
+*Department of Computer Science and Engineering*
+  
+**Project Title:** Defect tolerant Approaches for function mapping  
   
   
 ### Projects:
