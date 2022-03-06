@@ -1,5 +1,5 @@
 
-
+- 👋 **Hi, I’m Habibur Rahaman**
 <p align="center">
   ABOUT ME
 </p>
@@ -152,7 +152,25 @@ Internship Project Title: Development of a Distributed Security Application usin
 **“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”**  
 <br>Sponsored by *[Synopsys Inc](https://www.synopsys.com/)*.(690 East Middlefield Road, Mountain View, CA 94043, USA)<br>  
   
+
   
+<hr>
+  
+### Projects:
+
+**“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”**  
+<br>Sponsored by *[Synopsys Inc](https://www.synopsys.com/)*.(690 East Middlefield Road, Mountain View, CA 94043, USA)<br>  
+  
+  
+<hr>
+  
+### Skills:
+  
+**Exposure:-** Artificial Neural Network (ANN), Machine Learning (ML), CAD for Test and Diagnosis.<br>
+**Language Known :-** C, C++, Python (Tensorflow, PyTorch), Verilog HDL<br>
+**Tool Exposure:-** Synopsys VCS (Verilog Compiler and Simulator) Tool, SimRegress tool, and Synopsys Tetramax.<br>  
+  
+<hr>  
   
   
 ### CERTIFICATES:
