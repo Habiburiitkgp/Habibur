@@ -197,7 +197,9 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 ### CERTIFICATES:
   
 
-**Build Basic Generative Adversarial Networks (GANs)** an online non-credit course authorized by DeepLearning.AI and offered through Coursera)*[Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/6b9236d851f468990866036079fd967c)*
+**Build Basic Generative Adversarial Networks (GANs)** an online non-credit course authorized by DeepLearning.AI and offered through Coursera)*[Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/6b9236d851f468990866036079fd967c)*<br>
+  
+**High Level Synthesis Tutorial - DAC 2021** by Issued by Cadence Design Systems*[High Level Synthesis Tutorial(HLS)](https://www.credly.com/badges/60b17df7-393d-479b-a03c-7ccec1a98ca2?source=linked_in_profile)*<br>  
 <hr>    
 
 ### CO-/EXTRA –CURRICULAR ACTIVITIES: 
