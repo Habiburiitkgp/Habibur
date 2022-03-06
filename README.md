@@ -4,8 +4,13 @@
   ABOUT ME
 </p>
   
+<hr>
 
-
+### Research Interest
+- Machine Learning based Testing and Diagnosis of Digital Circuits.<br>
+- CAD for VLSI<br>
+- AI driven Hardware Security and IOT Security.<br>
+<hr>
 
 
 
