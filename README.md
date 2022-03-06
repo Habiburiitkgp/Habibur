@@ -192,7 +192,7 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 - Confident and Determined.
 - Ability to cope up with different situations.
   
-  
+<hr>  
   
 ### CERTIFICATES:
   
