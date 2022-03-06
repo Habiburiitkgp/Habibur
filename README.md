@@ -6,7 +6,7 @@
   
 <hr>
 
-### :red_circle: Research Interest
+### Research Interest
 - Machine Learning based Testing and Diagnosis of Digital Circuits.<br>
 - CAD for VLSI<br>
 - AI driven Hardware Security and IOT Security.<br>
@@ -37,7 +37,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 
 
-### :red_circle: EDUCATION
+### EDUCATION
 
 **[Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/)** <span style="float: right; ">2019 - Present</span>  
 
@@ -67,7 +67,6 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 
   
   
-<span style="color:blue">**PUBLICATIONS**</span>  
   
 ### PUBLICATIONS
   
