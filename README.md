@@ -213,9 +213,9 @@ Interest and Hobbies :- Internet browsing, coding, badminton and reading novel, 
   
 <br>Email:    habibur.hr4@gmail.com<br>
   
-<p align="center">
+
               habibur@iitkgp.ac.in
-</p>  
+  
 <hr>  
   
   
