@@ -203,7 +203,7 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 
 ### CO-/EXTRA –CURRICULAR ACTIVITIES: 
 
-Interested in Skecting and photography<br>  
+Interested in Sketching and photography<br>  
   
 Interest and Hobbies :- Internet browsing, coding, badminton and reading novel, drawing<br>
 <hr>  
@@ -219,5 +219,5 @@ habibur@iitkgp.ac.in
 <hr>  
   
   
-<p style="margin-left:80%;"> Created by Habibur Rahaman (https://www.linkedin.com/in/habibur-rahaman-00a37117a/) </p>  
+<p style="margin-left:80%;"> *[Created by Habibur Rahaman](https://www.linkedin.com/in/habibur-rahaman-00a37117a/)* </p>  
   
