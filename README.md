@@ -219,5 +219,5 @@ habibur@iitkgp.ac.in
 <hr>  
   
   
-<p style="margin-left:80%;"> *[Created by Habibur Rahaman](https://www.linkedin.com/in/habibur-rahaman-00a37117a/)* </p>  
+<p style="margin-left:80%;"> Created by Habibur Rahaman (https://www.linkedin.com/in/habibur-rahaman-00a37117a/) </p>  
   
